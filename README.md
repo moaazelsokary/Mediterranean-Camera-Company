@@ -1,8 +1,12 @@
 # Mediterranean-Camera-Company
 This is an Excel dashboard to analyze Mediterranean Camera Company's sales performance
 - Page 1: Overview of the Company's Sales Performance YTD Report
+
+
 ![Mediterranean Camera Company](https://github.com/moaazelsokary/Mediterranean-Camera-Company/blob/main/Screenshot_1.png)
 - Page 2: Analysis of Product Data and Time Intelligence Report
+
+
 ![Mediterranean Camera Company](https://github.com/moaazelsokary/Mediterranean-Camera-Company/blob/main/Screenshot_2.png)
 ## Tool Used
 Microsoft Excel 
